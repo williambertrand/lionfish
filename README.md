@@ -7,8 +7,9 @@ Harr Cascade classifier trained with about 70 positive images
 
 Install opencv:
 
-` brew tap homebrew/science
- brew install opencv`
+` brew tap homebrew/science`
+
+` brew install opencv`
 
 run:
 
